@@ -1,0 +1,14 @@
+C:\Users\otche\OneDrive\Desktop\c#\Domashka\bin\Debug\net7.0\Domashka.exe
+C:\Users\otche\OneDrive\Desktop\c#\Domashka\bin\Debug\net7.0\Domashka.deps.json
+C:\Users\otche\OneDrive\Desktop\c#\Domashka\bin\Debug\net7.0\Domashka.runtimeconfig.json
+C:\Users\otche\OneDrive\Desktop\c#\Domashka\bin\Debug\net7.0\Domashka.dll
+C:\Users\otche\OneDrive\Desktop\c#\Domashka\bin\Debug\net7.0\Domashka.pdb
+C:\Users\otche\OneDrive\Desktop\c#\Domashka\obj\Debug\net7.0\Domashka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otche\OneDrive\Desktop\c#\Domashka\obj\Debug\net7.0\Domashka.AssemblyInfoInputs.cache
+C:\Users\otche\OneDrive\Desktop\c#\Domashka\obj\Debug\net7.0\Domashka.AssemblyInfo.cs
+C:\Users\otche\OneDrive\Desktop\c#\Domashka\obj\Debug\net7.0\Domashka.csproj.CoreCompileInputs.cache
+C:\Users\otche\OneDrive\Desktop\c#\Domashka\obj\Debug\net7.0\Domashka.dll
+C:\Users\otche\OneDrive\Desktop\c#\Domashka\obj\Debug\net7.0\refint\Domashka.dll
+C:\Users\otche\OneDrive\Desktop\c#\Domashka\obj\Debug\net7.0\Domashka.pdb
+C:\Users\otche\OneDrive\Desktop\c#\Domashka\obj\Debug\net7.0\Domashka.genruntimeconfig.cache
+C:\Users\otche\OneDrive\Desktop\c#\Domashka\obj\Debug\net7.0\ref\Domashka.dll
